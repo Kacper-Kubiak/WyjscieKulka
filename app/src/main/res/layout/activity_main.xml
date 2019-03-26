@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <!-- TO ZMIENIC NA WŁASNE -->
     <pl.s230473.kulkasnake.Kolo
         android:id="@+id/kolo"
         android:layout_width="fill_parent"
@@ -14,6 +15,7 @@
         tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="0dp" />
 
+    <!-- TO ZMIENIC NA WŁASNE -->
     <pl.s230473.kulkasnake.Kulka
         android:id="@+id/kulka"
         android:layout_width="fill_parent"
