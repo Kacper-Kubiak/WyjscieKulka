@@ -1,13 +1,11 @@
+// TO ZMIENIC NA WŁASNE
 package pl.s230473.kulkasnake;
 
-import android.graphics.Rect;
 import android.hardware.Sensor;
 import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
 import android.hardware.SensorListener;
-import android.media.MediaPlayer;
 import android.os.Handler;
-import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;

@@ -1,3 +1,4 @@
+// TO ZMIENIC NA WŁASNE
 package pl.s230473.kulkasnake;
 
 import android.content.Context;
@@ -6,7 +7,6 @@ import android.graphics.Color;
 import android.graphics.Paint;
 import android.graphics.Point;
 import android.util.AttributeSet;
-import android.util.Log;
 import android.view.View;
 
 public class Kulka extends View {
